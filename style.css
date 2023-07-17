@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(-45deg, #d66800, rgba(3, 175, 175, 0.667));
+}
+
+#calculadora{
+    max-width: 450px;
+    height: 450px;
+    
+    
+}
+
+
+
+.btn{
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: transparent;
+    color: white;
+}
